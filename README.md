@@ -22,6 +22,8 @@ Tartarus2014 对任何脚本问题概不负责，包括但不限于由任何脚�
 For-own-use项目的规则，则视为您已接受此免责声明.
 
 ### 特别感谢：
+* [@Tartarus2014](https://github.com/Tartarus2014/)
+
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@lhie1](https://github.com/lhie1)
