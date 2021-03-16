@@ -8,9 +8,9 @@
 
 * [Script.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Script.conf) 脚本订阅
 
-* [Cookie.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Cookie.conf)获取Cookie订阅
+* [Cookie.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Cookie.conf)获取Cookie订阅
 
-* [Task.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Task.conf) 定时任务订阅
+* [Task.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Task.conf) 定时任务订阅
 
 ### Loon插件订阅配置 ：
 
