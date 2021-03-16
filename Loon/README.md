@@ -1,9 +1,21 @@
 ### 说明 :
+
 * 只是搬运和同步更新大佬脚本.
+
 * 不负责维护脚本.
+
 * 只测试自用脚本，其他大部分脚本未测试可用性.
 
-### Loon脚本订阅配置 ：
+* 更新通知[频道](https://t.me/)
+
+### Loon全局配置：
+
+* [Loon.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Loon.conf)
+
+
+### Loon脚本订阅配置：
+* [视频教程](https://youtu.be/F1BEgma4xYA)
+
 * [文字教程](https://github.com/TiyNa/LoonManual)
 
 * [Script.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Script.conf) 脚本订阅
