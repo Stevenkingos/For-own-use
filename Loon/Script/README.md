@@ -16,11 +16,11 @@
 ### Loon脚本订阅配置 ：
 * [文字教程](https://github.com/TiyNa/LoonManual)
 
-* [Script.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Script.conf) 脚本订阅
+* [Script.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Script.conf) 脚本订阅
 
-* [Cookie.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Cookie.conf)获取Cookie订阅
+* [Cookie.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Cookie.conf)获取Cookie订阅
 
-* [Task.conf](https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Task.conf) 定时任务订阅
+* [Task.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Task.conf) 定时任务订阅
 
 ### Loon插件订阅配置 ：
 
