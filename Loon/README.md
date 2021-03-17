@@ -11,15 +11,13 @@
 * [Loon.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Loon.conf)
 
 ### Loon脚本订阅配置：
-* [视频教程](https://youtu.be/F1BEgma4xYA)
-
-* [文字教程](https://github.com/TiyNa/LoonManual)
-
 * [Script.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script.conf) 脚本订阅
 
 * [Cookie.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Cookie.conf) 获取Cookie订阅
 
 * [Task.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Task.conf) 定时任务订阅
+
+* [视频教程](https://youtu.be/F1BEgma4xYA)    * [文字教程](https://github.com/TiyNa/LoonManual)
 
 ### Loon插件订阅配置 ：
 
