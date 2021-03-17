@@ -15,7 +15,7 @@
 
 * [文字教程](https://github.com/TiyNa/LoonManual)
 
-* [Script.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Script.conf) 脚本订阅
+* [Script.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script.conf) 脚本订阅
 
 * [Cookie.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Cookie.conf)获取Cookie订阅
 
