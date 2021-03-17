@@ -17,7 +17,7 @@
 
 * [Task.conf](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Task.conf) 定时任务订阅
 
-* [视频教程](https://youtu.be/F1BEgma4xYA)    * [文字教程](https://github.com/TiyNa/LoonManual)
+* [视频教程](https://youtu.be/F1BEgma4xYA)       * [文字教程](https://github.com/TiyNa/LoonManual)
 
 ### Loon插件订阅配置 ：
 
