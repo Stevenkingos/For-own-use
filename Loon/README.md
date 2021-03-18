@@ -21,7 +21,7 @@
 
 ### Loon插件订阅配置 ：
 
-* [Advertising.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Plugin/Block/Advertising.plugin) 去广告插件
+* [Advertising.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/Block/Advertising.plugin) 去广告插件
 
 * [Host.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/Host.plugin) Host
 
