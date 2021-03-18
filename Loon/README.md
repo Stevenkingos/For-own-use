@@ -25,7 +25,7 @@
 
 * [Host.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/Host.plugin) Host
 
-* [General.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Script/Plugin/General.plugin) General
+* [General.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/General.plugin) General
 
 ## 免责声明 ：
 
