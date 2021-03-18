@@ -18,8 +18,8 @@
 
 # 建议用户订阅Advertising.plugin，General.plugin，Host.plugin。以获得更优秀的用户体验。
 
-Host:          https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/Host.plugin
+* [Advertising.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/Block/Advertising.plugin) 去广告插件
 
-Advertising：  https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Block/Advertising.plugin
+* [Host.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/Host.plugin) Host
 
-General：      https://raw.githubusercontent.com/Tartarus2014/Loon-Script/master/Plugin/General.plugin
+* [General.plugin](https://raw.githubusercontent.com/laoshur/For-own-use/master/Loon/Plugin/General.plugin) General
