@@ -29,8 +29,6 @@
 ^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/ - reject
 ^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/ - reject
-# > Xiami Music - acs.m.taobao.com
-^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/ - reject
 # > AMap - m*.amap.com
 ^https?:\/\/m\d\.amap\.com\/ws\/valueadded\/alimama\/splash_screen\/ - reject
 # > YOUKU
@@ -38,8 +36,6 @@
 # ---
 # > AcFun - api-new.app.acfun.cn
 ^https?:\/\/api-new\.app\.acfun\.cn\/rest\/app\/flash\/screen\/ - reject
-# > AiMeiJu - api.bjxkhc.com
-^https?:\/\/api\.bjxkhc\.com\/index\.php\/app\/ios\/ads\/ - reject
 
 # B
 # > ByteDance - *.amemv.com,*.snssdk.com
@@ -73,25 +69,14 @@
 ^https?:\/\/manga\.bilibili\.com\/twirp\/comic\.v\d\.Comic\/Flash - reject
 # > BeiTaiKitchen - channel.beitaichufang.com
 ^https?:\/\/channel\.beitaichufang\.com\/channel\/api\/v\d\/promote\/ios\/start\/page - reject
-# > BiShiJie - iapi.bishijie.com
-^https?:\/\/iapi\.bishijie\.com\/actopen\/advertising\/ - reject
 # > Beike - app.api.ke.com
 ^https?:\/\/app\.api\.ke\.com\/config\/config\/bootpage - reject
 # > boohee
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/api\/v\d\/app_square\/start_up_with_ad$ - reject
 # > bodivis - www.bodivis.com.cn
 ^https?:\/\/www\.bodivis\.com\.cn\/app\/splashAdvertise - reject
-# > BabyHealth - yxyapi*.drcuiyutao.com
-^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject
 
 # C
-# > ChinaMobile - clientaccess.10086.cn
-^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit - reject
-^https?:\/\/wap\.js\.10086\.cn\/jsmccClient\/cd\/market_content\/api\/v\d\/market_content\.page\.query - reject
-# ---
-# > ChinaUnicom - m.client.10010.com
-^https?:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm - reject
-^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/getWelcomeAd - reject
 # ---(ChinaTelecom)---
 # > Cloud189 - cloud.189.cn
 ^https?:\/\/cloud\.189\.cn\/include\/splash\/ - reject
@@ -100,10 +85,6 @@
 # ---
 # > CNTV
 ^https?:\/\/www\.cntv\.cn\/nettv\/adp\/ - reject
-# > Chelaile - api.chelaile.net.cn,web.chelaile.net.cn
-^https?:\/\/api\.chelaile\.net\.cn\/adpub\/ - reject
-^https?:\/\/api\.chelaile\.net\.cn\/goocity\/advert\/ - reject
-^https?:\/\/web\.chelaile\.net\.cn\/api\/adpub\/ - reject
 # > Caocao - cap.caocaokeji.cn
 ^https?:\/\/cap\.caocaokeji\.cn\/advert-bss\/ - reject
 # > CaijingNet - api.caijingmobile.com
@@ -124,14 +105,9 @@
 # > Dangdang - e.dangdang.com
 ^https?:\/\/mapi\.dangdang\.com\/index\.php\?action=init - reject
 ^https?:\/\/e\.dangdang\.com\/media\/api\d\.go\?action=getDeviceStartPage - reject
-# > Daoyu - daoyu.sdo.com
-^https?:\/\/daoyu\.sdo\.com\/api\/userCommon\/getAppStartAd - reject
 # > Dida
 ^https?:\/\/capis(-slb)?\.didapinche\.com\/ad\/ - reject
 ^https?:\/\/www\.didapinche\.com\/app\/adstat\/ - reject
-# > Dianshijia
-^https?:\/\/api\.gaoqingdianshi\.com\/api\/v\d\/ad\/ - reject
-^https?:\/\/cdn\.dianshihome\.com\/static\/ad\/ - reject
 # > DDpai
 ^https?:\/\/app\.ddpai\.com\/d\/api\/v\d\/config\/get\/bootscreen - reject
 # > DayDayCook - *.daydaycook.com
@@ -184,8 +160,6 @@
 ^https?:\/\/smkmp\.96225.com\/smkcenter\/ad/ - reject
 # > Huomao - api.huomao.com
 ^https?:\/\/api\.huomao\.com\/channels\/loginAd - reject
-# > HanjuTV
-^https?:\/\/api\.hanju\.koudaibaobao\.com\/api\/carp\/kp\? - reject
 
 # I
 # > iFLY Input - imeclient.openspeech.cn
@@ -196,8 +170,6 @@
 ^https?:\/\/ih2\.ireader\.com\/zyapi\/bookstore\/ad\/ - reject
 ^https?:\/\/ih2\.ireader\.com\/zyapi\/self\/screen\/ad - reject
 ^https?:\/\/ih2\.ireader\.com\/zycl\/api\/ad\/ - reject
-# > inanning - nnapp.cloudbae.cn
-^https?:\/\/nnapp\.cloudbae\.cn:\d+\/mc\/api\/advert/ - reject
 # > iFreeTime
 ^https?:\/\/api\.applovefrom\.com\/api\/v\d\/splash\/ - reject
 # > iCleaner - ib-soft.net
@@ -217,11 +189,6 @@
 ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/na\/m\/getLoadingPicture - reject
 ^https?:\/\/img\d+\.360buyimg\.com\/jddjadvertise\/ - reject
-# > JiaXiaoeDianTong - api.jxedt.com,richmanapi.jxedt.com
-^https?:\/\/api\.jxedt\.com\/ad\/ - reject
-^https?:\/\/richmanapi\.jxedt\.com\/api\/(ad|adplus)\/ - reject
-# > JiaKaoBaoDian - *.kakamobi.cn
-^https?:\/\/\w+\.kakamobi\.cn\/api\/open\/v\d\/advert-sdk\/ - reject
 # > Jinse - app-api.jinse.com
 ^https?:\/\/app-api\.jinse\.com\/v\d\/ad\/ - reject
 
@@ -241,8 +208,6 @@
 ^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/EcomResourceServer/AdPlayPage/adinfo - reject
 
 # L
-# > LaiFeng
-^https?:\/\/api\.laifeng\.com\/v\d\/start\/ads - reject
 # > Lenovo - api.club.lenovo.cn
 ^https?:\/\/api\.club\.lenovo\.cn\/common\/open_ad - reject
 
@@ -256,8 +221,6 @@
 ^https?:\/\/api\.mgzf\.com\/renter-operation\/home\/startHomePage - reject
 # > MojiWeather - cdn.moji.com
 ^https?:\/\/cdn\.moji\.com\/(adoss|adlink)\/ - reject
-# > ManHuaRen
-^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/public\/getStartPageAds - reject
 # > Meituan-Dianping - img.meituan.net,p*.meituan.net,s3plus.meituan.net,flowplus.meituan.net
 ^https?:\/\/img\.meituan\.net\/(adunion|display|midas)\/\w+\.(gif|jpg|jpg\.webp)$ - reject
 ^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) - reject
@@ -299,11 +262,6 @@
 ^https?:\/\/app-api\.niu\.com\/v\d\/advertisement\/ - reject
 # > Naver TV - gfp.veta.naver.com
 ^https?:\/\/gfp\.veta\.naver\.com\/adcall\? - reject
-
-# O
-# > Oray - slapi.oray.net
-^https?:\/\/slapi\.oray\.net\/client\/ad - reject
-^https?:\/\/slapi\.oray\.net\/adver - reject
 
 # P
 # > PiaoGen - pss.txffp.com
@@ -380,9 +338,6 @@
 
 # T
 # ---(Tencent)---
-# > FUTU - api*.futunn.com
-^https?:\/\/api\.futunn\.com\/v\d\/ad\/ - reject
-^https?:\/\/api\d\.futunn\.com\/ad\/ - reject
 # > Tencent Game - ssl.kohsocialapp.qq.com
 ^https?:\/\/ssl\.kohsocialapp\.qq\.com:\d+\/game\/buttons - reject
 ^https?:\/\/qt\.qq\.com\/lua\/mengyou\/get_splash_screen_info - reject
@@ -481,8 +436,6 @@
 ^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage - reject
 ^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated - reject
 ^https?:\/\/itunes\.apple\.com\/lookup\?id=575826903 - reject
-# > Zuoyebang - www.zybang.com
-^https?:\/\/www\.zybang\.com\/adx\/ - reject
 # > ZUIYOU - api.izuiyou.com
 ^https?:\/\/api\.izuiyou\.com\/ad\/ - reject
 # > Zhan - tiku.zhan.com
