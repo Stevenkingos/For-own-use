@@ -40,3 +40,4 @@
         "15 */1 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js , tag=微博通知 , img-url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/dragonball/11.PNG" 
         "0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话,img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png,enabled=false" 
     ]
+}
